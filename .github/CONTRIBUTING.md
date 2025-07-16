@@ -6,8 +6,8 @@
 
 **Where legends don't die... they become Spectral**
 
-[![Discord](https://img.shields.io/discord/217589275766685707?logo=discord&logoColor=white&label=Join%20our%20Discord)](https://discord.spectralwow.com)
-[![Website](https://img.shields.io/badge/Website-spectralwow.com-purple.svg)](https://www.spectralwow.com)
+[![Discord](https://img.shields.io/badge/💬_Join_Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/5N2BfEc2GS)
+[![Website](https://img.shields.io/badge/Website-spectralwow.com-purple.svg)](https://spectralwow.com)
 
 </div>
 
@@ -74,7 +74,7 @@ Before contributing, ensure you have:
    ```
 
 4. **Join Our Discord**
-   - Visit [discord.spectralwow.com](https://discord.spectralwow.com)
+   - Visit [discord.com/invite/5N2BfEc2GS](https://discord.com/invite/5N2BfEc2GS)
    - Introduce yourself in the `#development` channel
    - Get the `@Developer` role for access to development channels
 
@@ -253,7 +253,8 @@ Closes #issue_number
 - **Discord**: `#development` channel for general questions
 - **Discord**: `#code-review` channel for code-specific help
 - **GitHub**: Create issues for bugs or feature requests
-- **Documentation**: [docs.spectralwow.com](https://docs.spectralwow.com)
+- **Forum**: [spectralwow.com/forum](https://spectralwow.com/forum)
+- **Email**: [hello@spectralwow.com](mailto:hello@spectralwow.com)
 
 ### Mentorship Program
 New contributors can request mentorship:
@@ -278,6 +279,6 @@ All contributors must follow our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 **Thank you for helping make SpectralWoW legendary! ✨**
 
-[Join Discord](https://discord.spectralwow.com) • [Visit Website](https://spectralwow.com) • [Read Docs](https://docs.spectralwow.com)
+[Join Discord](https://discord.com/invite/5N2BfEc2GS) • [Visit Website](https://spectralwow.com) • [Forum](https://spectralwow.com/forum) • [Contact](mailto:hello@spectralwow.com)
 
 </div>

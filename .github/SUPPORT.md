@@ -6,9 +6,9 @@
 
 **Getting Help in the Spectral Realm**
 
-[![Discord](https://img.shields.io/discord/217589275766685707?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.spectralwow.com)
-[![Website](https://img.shields.io/badge/Website-spectralwow.com-7c3aed?style=for-the-badge)](https://www.spectralwow.com)
-[![Documentation](https://img.shields.io/badge/Docs-docs.spectralwow.com-blue?style=for-the-badge)](https://docs.spectralwow.com)
+[![Discord](https://img.shields.io/badge/💬_Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/5N2BfEc2GS)
+[![Website](https://img.shields.io/badge/Website-spectralwow.com-7c3aed?style=for-the-badge)](https://spectralwow.com)
+[![Forum](https://img.shields.io/badge/Forum-spectralwow.com-blue?style=for-the-badge)](https://spectralwow.com/forum)
 
 </div>
 
@@ -23,10 +23,10 @@ Whether you're a player exploring our spectral realm, a developer contributing t
 ## 🎮 Player Support
 
 ### 🚀 Getting Started
-- **Account Creation**: [Register at spectralwow.com](https://spectralwow.com/register)
-- **Client Download**: [Download the game client](https://spectralwow.com/download)
-- **Setup Guide**: [First-time player guide](https://docs.spectralwow.com/player-guide)
-- **Server Information**: [Connection details and realmlist](https://spectralwow.com/connect)
+- **Website**: [spectralwow.com](https://spectralwow.com)
+- **Realmlist**: logon.spectralwow.com
+- **Discord**: [discord.com/invite/5N2BfEc2GS](https://discord.com/invite/5N2BfEc2GS)
+- **Forum**: [spectralwow.com/forum](https://spectralwow.com/forum)
 
 ### 🎯 Common Player Issues
 
@@ -56,19 +56,17 @@ Whether you're a player exploring our spectral realm, a developer contributing t
    - Include character name and realm
 
 2. **💬 Discord Support**
-   - Join [discord.spectralwow.com](https://discord.spectralwow.com)
-   - Use `#player-support` channel
-   - Tag `@Support Team` for urgent issues
+   - Join [discord.com/invite/5N2BfEc2GS](https://discord.com/invite/5N2BfEc2GS)
+   - Use general channels for support
+   - Contact administrators for urgent issues
 
-3. **🌐 Website Support**
-   - Visit [spectralwow.com/support](https://spectralwow.com/support)
-   - Submit support ticket
-   - Check FAQ section
+3. **🌐 Website & Forum**
+   - Visit [spectralwow.com](https://spectralwow.com)
+   - Forum: [spectralwow.com/forum](https://spectralwow.com/forum)
+   - Check website for information
 
 4. **📧 Email Support**
-   - General: support@spectralwow.com
-   - Billing: billing@spectralwow.com
-   - Technical: technical@spectralwow.com
+   - General: hello@spectralwow.com
 
 ---
 
@@ -77,10 +75,10 @@ Whether you're a player exploring our spectral realm, a developer contributing t
 ### 🛠️ Development Help
 
 #### Getting Started
-- **Setup Guide**: [Development environment setup](https://docs.spectralwow.com/development/setup)
 - **Contributing**: [How to contribute](CONTRIBUTING.md)
-- **Code Style**: [Coding standards and guidelines](https://docs.spectralwow.com/development/coding-standards)
-- **Architecture**: [System architecture overview](https://docs.spectralwow.com/development/architecture)
+- **Discord**: [discord.com/invite/5N2BfEc2GS](https://discord.com/invite/5N2BfEc2GS)
+- **Forum**: [spectralwow.com/forum](https://spectralwow.com/forum)
+- **Email**: hello@spectralwow.com
 
 #### Common Development Issues
 
@@ -115,10 +113,10 @@ Whether you're a player exploring our spectral realm, a developer contributing t
    - Use appropriate issue templates
    - Provide detailed reproduction steps
 
-3. **📚 Documentation**
-   - [Developer Documentation](https://docs.spectralwow.com/development)
-   - [API Reference](https://docs.spectralwow.com/api)
-   - [Module Examples](https://docs.spectralwow.com/modules)
+3. **📚 Resources**
+   - [Forum](https://spectralwow.com/forum)
+   - [GitHub Repository](https://github.com/spectralwow-dev)
+   - [AzerothCore Documentation](https://www.azerothcore.org/wiki/)
 
 4. **👥 Mentorship Program**
    - Request mentor assignment
@@ -133,10 +131,10 @@ Whether you're a player exploring our spectral realm, a developer contributing t
 ### 🚀 Server Setup
 
 #### Installation & Configuration
-- **VPS Setup**: [Complete VPS setup guide](https://docs.spectralwow.com/admin/vps-setup)
-- **Docker Deployment**: [Docker installation guide](https://docs.spectralwow.com/admin/docker)
-- **Database Setup**: [MySQL configuration and optimization](https://docs.spectralwow.com/admin/database)
-- **Web Server**: [Nginx and PHP setup](https://docs.spectralwow.com/admin/webserver)
+- **Forum**: [spectralwow.com/forum](https://spectralwow.com/forum)
+- **Discord**: [discord.com/invite/5N2BfEc2GS](https://discord.com/invite/5N2BfEc2GS)
+- **AzerothCore**: [AzerothCore Installation Guide](https://www.azerothcore.org/wiki/installation)
+- **Email Support**: hello@spectralwow.com
 
 #### Common Admin Issues
 
@@ -167,15 +165,14 @@ Whether you're a player exploring our spectral realm, a developer contributing t
    - `#security` - Security discussions
 
 2. **📧 Direct Support**
-   - Admin support: admin-support@spectralwow.com
-   - Technical issues: technical@spectralwow.com
-   - Security concerns: security@spectralwow.com
+   - General support: hello@spectralwow.com
+   - Discord: [discord.com/invite/5N2BfEc2GS](https://discord.com/invite/5N2BfEc2GS)
+   - Forum: [spectralwow.com/forum](https://spectralwow.com/forum)
 
 3. **📚 Admin Resources**
-   - [Administrator Documentation](https://docs.spectralwow.com/admin)
-   - [Configuration Reference](https://docs.spectralwow.com/admin/config)
-   - [Troubleshooting Guide](https://docs.spectralwow.com/admin/troubleshooting)
-   - [Best Practices](https://docs.spectralwow.com/admin/best-practices)
+   - [AzerothCore Documentation](https://www.azerothcore.org/wiki/)
+   - [SpectralWoW Forum](https://spectralwow.com/forum)
+   - [GitHub Repository](https://github.com/spectralwow-dev)
 
 ---
 
@@ -184,10 +181,10 @@ Whether you're a player exploring our spectral realm, a developer contributing t
 ### 🎯 Before Requesting Support
 
 1. **Search Existing Resources**
-   - Check [documentation](https://docs.spectralwow.com)
+   - Check [forum](https://spectralwow.com/forum)
    - Search Discord channels
    - Review GitHub issues
-   - Check FAQ sections
+   - Check website information
 
 2. **Gather Information**
    - Error messages and logs
@@ -252,9 +249,9 @@ Any other relevant information
 ### 👥 Community Resources
 
 - **Discord Community**: Active community members helping each other
-- **Forums**: [Community forums](https://spectralwow.com/forums) for discussions
-- **Wiki**: [Community wiki](https://wiki.spectralwow.com) with guides and tips
-- **Reddit**: [r/SpectralWoW](https://reddit.com/r/spectralwow) community
+- **Forum**: [spectralwow.com/forum](https://spectralwow.com/forum) for discussions
+- **Website**: [spectralwow.com](https://spectralwow.com) with information
+- **GitHub**: [github.com/spectralwow-dev](https://github.com/spectralwow-dev) for development
 
 ### 🏆 Become a Community Helper
 
@@ -278,7 +275,7 @@ Any other relevant information
 For **critical issues** that affect server stability or security:
 
 - **Discord**: Tag `@Emergency Support` in appropriate channel
-- **Email**: emergency@spectralwow.com
+- **Email**: hello@spectralwow.com
 - **Phone**: Emergency hotline (provided to verified administrators)
 
 ### What Qualifies as Emergency
@@ -293,44 +290,30 @@ For **critical issues** that affect server stability or security:
 ## 📚 Self-Help Resources
 
 ### 📖 Documentation
-- [Player Guide](https://docs.spectralwow.com/player)
-- [Developer Documentation](https://docs.spectralwow.com/development)
-- [Administrator Guide](https://docs.spectralwow.com/admin)
-- [API Reference](https://docs.spectralwow.com/api)
-
-### 🎥 Video Tutorials
-- [YouTube Channel](https://youtube.com/spectralwow)
-- Setup and installation guides
-- Feature demonstrations
-- Troubleshooting walkthroughs
+- [SpectralWoW Forum](https://spectralwow.com/forum)
+- [AzerothCore Documentation](https://www.azerothcore.org/wiki/)
+- [GitHub Repository](https://github.com/spectralwow-dev)
+- [Website](https://spectralwow.com)
 
 ### 📝 Knowledge Base
-- [FAQ](https://spectralwow.com/faq)
-- [Troubleshooting Guides](https://docs.spectralwow.com/troubleshooting)
-- [Best Practices](https://docs.spectralwow.com/best-practices)
-- [Common Issues](https://docs.spectralwow.com/common-issues)
+- [Forum](https://spectralwow.com/forum)
+- [Discord Community](https://discord.com/invite/5N2BfEc2GS)
+- [GitHub Issues](https://github.com/spectralwow-dev)
+- [Website Information](https://spectralwow.com)
 
 ---
 
 ## 📞 Contact Information
 
 ### Primary Support Channels
-- **Discord**: [discord.spectralwow.com](https://discord.spectralwow.com)
-- **Website**: [spectralwow.com/support](https://spectralwow.com/support)
-- **Email**: support@spectralwow.com
+- **Discord**: [discord.com/invite/5N2BfEc2GS](https://discord.com/invite/5N2BfEc2GS)
+- **Website**: [spectralwow.com](https://spectralwow.com)
+- **Forum**: [spectralwow.com/forum](https://spectralwow.com/forum)
+- **Email**: hello@spectralwow.com
 
-### Specialized Support
-- **Technical**: technical@spectralwow.com
-- **Billing**: billing@spectralwow.com
-- **Security**: security@spectralwow.com
-- **Development**: development@spectralwow.com
-- **Admin**: admin-support@spectralwow.com
-
-### Social Media
-- **Twitter**: [@SpectralWoW](https://twitter.com/spectralwow)
-- **Facebook**: [SpectralWoW](https://facebook.com/spectralwow)
-- **Reddit**: [r/SpectralWoW](https://reddit.com/r/spectralwow)
-- **YouTube**: [SpectralWoW Channel](https://youtube.com/spectralwow)
+### Development
+- **GitHub**: [github.com/spectralwow-dev](https://github.com/spectralwow-dev)
+- **Realmlist**: logon.spectralwow.com
 
 ---
 
@@ -338,7 +321,7 @@ For **critical issues** that affect server stability or security:
 
 **We're here to help you succeed in the Spectral Realm! ✨**
 
-[Get Support](https://discord.spectralwow.com) • [Read Docs](https://docs.spectralwow.com) • [Visit Website](https://spectralwow.com)
+[Get Support](https://discord.com/invite/5N2BfEc2GS) • [Forum](https://spectralwow.com/forum) • [Visit Website](https://spectralwow.com)
 
 </div>
 

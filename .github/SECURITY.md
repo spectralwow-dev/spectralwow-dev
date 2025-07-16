@@ -6,8 +6,8 @@
 
 **Protecting Our Spectral Realm**
 
-[![Security](https://img.shields.io/badge/Security-High%20Priority-red.svg)](https://spectralwow.com/security)
-[![Discord](https://img.shields.io/discord/217589275766685707?logo=discord&logoColor=white&label=Report%20on%20Discord)](https://discord.spectralwow.com)
+[![Security](https://img.shields.io/badge/Security-High%20Priority-red.svg)](https://spectralwow.com)
+[![Discord](https://img.shields.io/badge/💬_Join_Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/5N2BfEc2GS)
 
 </div>
 
@@ -34,8 +34,8 @@ We actively maintain security for the following versions:
 If you discover a security vulnerability, please report it immediately through one of these **secure channels**:
 
 #### 🔒 Private Reporting (Preferred)
-- **Email**: security@spectralwow.com
-- **Discord**: Direct message to `@Security Team` role members
+- **Email**: hello@spectralwow.com
+- **Discord**: Direct message to administrators on [discord.com/invite/5N2BfEc2GS](https://discord.com/invite/5N2BfEc2GS)
 - **GitHub**: Use GitHub's private vulnerability reporting feature
 
 #### 📋 What to Include
@@ -211,7 +211,7 @@ QueryResult result = CharacterDatabase.Query(query.c_str());
 ## 📚 Security Resources
 
 ### Documentation
-- [SpectralWoW Security Guide](https://docs.spectralwow.com/security)
+- [SpectralWoW Forum](https://spectralwow.com/forum)
 - [AzerothCore Security Best Practices](https://www.azerothcore.org/wiki/security)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [CWE/SANS Top 25](https://cwe.mitre.org/top25/)
@@ -253,19 +253,19 @@ QueryResult result = CharacterDatabase.Query(query.c_str());
 
 ### Emergency Contacts
 
-- **Security Team Lead**: security-lead@spectralwow.com
-- **Infrastructure Team**: infrastructure@spectralwow.com
-- **Discord Emergency**: `@Security Team` role
-- **24/7 Hotline**: Available to verified security researchers
+- **Primary Contact**: hello@spectralwow.com
+- **Discord**: [discord.com/invite/5N2BfEc2GS](https://discord.com/invite/5N2BfEc2GS)
+- **Forum**: [spectralwow.com/forum](https://spectralwow.com/forum)
 
 ---
 
 ## 📞 Contact Information
 
 ### Security Team
-- **Primary**: security@spectralwow.com
-- **Discord**: [discord.spectralwow.com](https://discord.spectralwow.com) - `@Security Team`
-- **Website**: [spectralwow.com/security](https://spectralwow.com/security)
+- **Primary**: hello@spectralwow.com
+- **Discord**: [discord.com/invite/5N2BfEc2GS](https://discord.com/invite/5N2BfEc2GS)
+- **Website**: [spectralwow.com](https://spectralwow.com)
+- **Forum**: [spectralwow.com/forum](https://spectralwow.com/forum)
 
 ### PGP Key
 ```
@@ -280,7 +280,7 @@ QueryResult result = CharacterDatabase.Query(query.c_str());
 
 **Together, we keep the Spectral Realm secure! 🛡️**
 
-[Report Security Issue](mailto:security@spectralwow.com) • [Join Discord](https://discord.spectralwow.com) • [Security Docs](https://docs.spectralwow.com/security)
+[Report Security Issue](mailto:hello@spectralwow.com) • [Join Discord](https://discord.com/invite/5N2BfEc2GS) • [Forum](https://spectralwow.com/forum)
 
 </div>
 
