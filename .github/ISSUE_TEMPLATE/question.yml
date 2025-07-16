@@ -1,0 +1,194 @@
+name: ❓ Question/Support
+description: Ask a question or get support for SpectralWoW
+title: "[QUESTION] "
+labels: ["question", "support"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # ❓ SpectralWoW Question/Support
+        
+        Need help with SpectralWoW? We're here to assist you!
+        
+        **Before asking:**
+        - Check our [documentation](link-to-docs)
+        - Search existing issues and discussions
+        - Review our [FAQ](link-to-faq)
+        - Check our [Discord](link-to-discord) for quick help
+        
+        ---
+
+  - type: dropdown
+    id: question-type
+    attributes:
+      label: 🎯 Question Type
+      description: What type of question or support do you need?
+      options:
+        - Installation/Setup
+        - Configuration
+        - Troubleshooting
+        - How-to/Usage
+        - Development
+        - Modules/Scripts
+        - Database
+        - Performance
+        - Security
+        - Spectral Features
+        - General Question
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: user-role
+    attributes:
+      label: 👤 Your Role
+      description: What's your role in relation to SpectralWoW?
+      options:
+        - Server Administrator
+        - Developer/Contributor
+        - Player
+        - Content Creator
+        - New User
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: ❓ Your Question
+      description: What would you like to know? Be as specific as possible.
+      placeholder: |
+        Please describe your question in detail...
+        
+        What are you trying to achieve?
+        What specific help do you need?
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: 🔍 Context
+      description: Provide context about your situation
+      placeholder: |
+        - What are you working on?
+        - What have you tried so far?
+        - What documentation have you consulted?
+        - Any relevant background information?
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: 🖥️ Environment (if relevant)
+      description: Information about your setup
+      placeholder: |
+        - OS: [e.g. Windows 11, Ubuntu 22.04]
+        - Compiler: [e.g. MSVC 2022, GCC 11]
+        - Database: [e.g. MySQL 8.0, MariaDB 10.6]
+        - Server Version: [e.g. SpectralWoW 1.0.0]
+        - Custom Modules: [list any custom modules]
+        - Hardware: [if performance related]
+
+  - type: textarea
+    id: attempted-solutions
+    attributes:
+      label: 🔧 What You've Tried
+      description: What solutions or approaches have you already attempted?
+      placeholder: |
+        - Solution 1: [what you tried and what happened]
+        - Solution 2: [what you tried and what happened]
+        - Resources consulted: [documentation, forums, etc.]
+
+  - type: textarea
+    id: expected-outcome
+    attributes:
+      label: 🎯 Expected Outcome
+      description: What outcome are you hoping to achieve?
+      placeholder: |
+        What would success look like?
+        What specific result are you trying to get?
+
+  - type: textarea
+    id: logs-errors
+    attributes:
+      label: 📋 Relevant Logs/Errors (if any)
+      description: Include any error messages, logs, or console output
+      placeholder: |
+        Paste relevant logs or error messages here...
+        
+        ```
+        [ERROR] Error message here...
+        ```
+      render: shell
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: 📸 Screenshots (if helpful)
+      description: Add screenshots if they help explain your question
+      placeholder: Drag and drop images here or paste links...
+
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: ⏰ Urgency
+      description: How urgent is this question?
+      options:
+        - Low (General inquiry, no rush)
+        - Medium (Blocking progress, but not critical)
+        - High (Blocking critical functionality)
+        - Critical (Server down or major issue)
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: research-done
+    attributes:
+      label: 🔍 Research Checklist
+      description: Please confirm you've done the following
+      options:
+        - label: I have searched existing issues and discussions
+          required: true
+        - label: I have checked the documentation
+          required: true
+        - label: I have provided sufficient context
+          required: true
+        - label: I have described what I've already tried
+          required: false
+
+  - type: textarea
+    id: additional-info
+    attributes:
+      label: 📝 Additional Information
+      description: Any other information that might be helpful
+      placeholder: |
+        - Related issues or discussions
+        - Specific deadlines or constraints
+        - Community feedback or input
+        - Any other relevant details
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+        ## 🤝 Getting Help
+        
+        **Response Times:**
+        - Questions: Usually within 24-48 hours
+        - Critical issues: Within 4-8 hours
+        - General support: Within 2-3 days
+        
+        **Other Support Channels:**
+        - 💬 [Discord Community](link-to-discord) - For quick questions and real-time help
+        - 📚 [Documentation](link-to-docs) - Comprehensive guides and references
+        - 🌐 [Community Forum](link-to-forum) - For discussions and community support
+        
+        **Thank you for being part of the SpectralWoW community! 🌟**
+        
+        *Where legends don't die... they become Spectral*

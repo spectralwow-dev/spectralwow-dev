@@ -1,0 +1,227 @@
+name: ✨ Feature Request
+description: Suggest a new feature or enhancement for SpectralWoW
+title: "[FEATURE] "
+labels: ["enhancement", "needs-triage"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # ✨ SpectralWoW Feature Request
+        
+        Thank you for suggesting a new feature! Your ideas help make SpectralWoW better for everyone.
+        
+        **Before submitting:**
+        - Search existing issues to avoid duplicates
+        - Check our roadmap and planned features
+        - Consider if this fits the SpectralWoW vision
+        
+        ---
+
+  - type: textarea
+    id: feature-summary
+    attributes:
+      label: 🎯 Feature Summary
+      description: A clear and concise description of the feature you'd like to see
+      placeholder: Briefly describe the feature...
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem-statement
+    attributes:
+      label: 🔍 Problem Statement
+      description: What problem does this feature solve? What need does it address?
+      placeholder: |
+        Is your feature request related to a problem? Please describe.
+        A clear and concise description of what the problem is.
+        Ex. I'm always frustrated when [...]
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: 💡 Proposed Solution
+      description: Describe the solution you'd like to see implemented
+      placeholder: |
+        A clear and concise description of what you want to happen.
+        Include any specific implementation details if you have them.
+    validations:
+      required: true
+
+  - type: dropdown
+    id: feature-category
+    attributes:
+      label: 📂 Feature Category
+      description: What category does this feature fall into?
+      options:
+        - Server Core
+        - Database
+        - Modules/Scripts
+        - Player Experience
+        - Admin Tools
+        - Performance
+        - Security
+        - Documentation
+        - Build System
+        - Spectral Features
+        - UI/UX
+        - API
+        - Configuration
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 🚀 Priority
+      description: How important is this feature to you?
+      options:
+        - Critical (Essential for server operation)
+        - High (Significantly improves experience)
+        - Medium (Nice to have improvement)
+        - Low (Minor enhancement)
+        - Wishlist (Future consideration)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: user-type
+    attributes:
+      label: 👤 User Type
+      description: Who would benefit from this feature?
+      options:
+        - Players
+        - Server Administrators
+        - Developers
+        - Content Creators
+        - Guild Leaders
+        - All Users
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: use-cases
+    attributes:
+      label: 🎮 Use Cases
+      description: Describe specific scenarios where this feature would be used
+      placeholder: |
+        1. As a [user type], I want to [action] so that [benefit]
+        2. When [situation], this feature would [outcome]
+        3. Example scenario: [detailed example]
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 🔄 Alternatives Considered
+      description: Describe any alternative solutions or features you've considered
+      placeholder: |
+        - Alternative 1: [description and why it's not ideal]
+        - Alternative 2: [description and why it's not ideal]
+        - Current workaround: [if any exists]
+
+  - type: textarea
+    id: spectral-integration
+    attributes:
+      label: 🌟 Spectral Integration
+      description: How does this feature fit with SpectralWoW's spectral theme?
+      placeholder: |
+        - How does this enhance the spectral experience?
+        - Does this fit the lore and theme?
+        - Any spectral-specific considerations?
+
+  - type: textarea
+    id: technical-considerations
+    attributes:
+      label: ⚙️ Technical Considerations
+      description: Any technical aspects, requirements, or constraints to consider
+      placeholder: |
+        - Database changes required?
+        - Performance implications?
+        - Compatibility concerns?
+        - Security considerations?
+        - Dependencies on other features?
+
+  - type: textarea
+    id: mockups
+    attributes:
+      label: 🎨 Mockups/Examples
+      description: Visual mockups, examples from other servers, or reference implementations
+      placeholder: |
+        - Screenshots or mockups
+        - Examples from other projects
+        - Reference links
+        - Drag and drop images here
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: ✅ Acceptance Criteria
+      description: What would make this feature complete and ready for release?
+      placeholder: |
+        - [ ] Feature does X
+        - [ ] Feature handles Y scenario
+        - [ ] Feature is configurable via Z
+        - [ ] Feature is documented
+        - [ ] Feature is tested
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: 📝 Additional Context
+      description: Any other context, screenshots, or information about the feature request
+      placeholder: |
+        - Related discussions or issues
+        - Community feedback
+        - Timeline considerations
+        - Budget/resource implications
+
+  - type: checkboxes
+    id: implementation-help
+    attributes:
+      label: 🤝 Implementation Help
+      description: Are you willing to help implement this feature?
+      options:
+        - label: I can help with design/planning
+          required: false
+        - label: I can help with coding/implementation
+          required: false
+        - label: I can help with testing
+          required: false
+        - label: I can help with documentation
+          required: false
+        - label: I can provide feedback during development
+          required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: ✅ Pre-Submission Checklist
+      description: Please confirm the following
+      options:
+        - label: I have searched existing issues for duplicates
+          required: true
+        - label: I have provided a clear problem statement
+          required: true
+        - label: I have described the proposed solution
+          required: true
+        - label: I have considered how this fits SpectralWoW's vision
+          required: true
+        - label: I have provided specific use cases
+          required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        
+        **Thank you for contributing to SpectralWoW's future! ✨**
+        
+        Our team will review your feature request and provide feedback. Popular features may be added to our roadmap.
+        
+        *Where legends don't die... they become Spectral*

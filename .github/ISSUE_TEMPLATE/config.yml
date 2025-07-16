@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discord Community
+    url: https://discord.gg/spectralwow
+    about: Join our Discord server for real-time support, discussions, and community interaction
+  - name: 📚 Documentation
+    url: https://docs.spectralwow.com
+    about: Comprehensive documentation, guides, and API references
+  - name: 🌐 Community Forum
+    url: https://forum.spectralwow.com
+    about: Community discussions, guides, and long-form support
+  - name: 🔒 Security Issues
+    url: mailto:security@spectralwow.com
+    about: Report security vulnerabilities privately via email
+  - name: 📧 General Contact
+    url: mailto:contact@spectralwow.com
+    about: General inquiries and business-related questions
