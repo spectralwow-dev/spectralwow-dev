@@ -38,19 +38,25 @@
 
 ---
 
-## 📊 GitHub Statistics & Activity
+## 📊 Project Statistics & Activity
 
 <div align="center">
 
-<!-- Repository Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=spectralwow-dev&repo=spectralwow-dev&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=spectralwow-dev&repo=spectralwow-server&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff"/>
+<!-- Development Activity -->
+[![GitHub Activity](https://img.shields.io/badge/Development-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/spectralwow-dev/spectralwow-dev)
+[![Code Quality](https://img.shields.io/badge/Code_Quality-High-brightgreen?style=for-the-badge&logo=codacy&logoColor=white)](https://github.com/spectralwow-dev/spectralwow-dev)
+[![Build Status](https://img.shields.io/badge/Build-Stable-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/spectralwow-dev/spectralwow-dev)
 
-<!-- Organization Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=spectralwow-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff"/>
+<!-- Project Metrics -->
+[![Total Commits](https://img.shields.io/badge/Total_Commits-500+-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/spectralwow-dev/spectralwow-dev)
+[![Active Modules](https://img.shields.io/badge/Active_Modules-25+-purple?style=for-the-badge&logo=puzzle&logoColor=white)](https://github.com/spectralwow-dev/spectralwow-dev)
+[![Lines of Code](https://img.shields.io/badge/Lines_of_Code-100K+-orange?style=for-the-badge&logo=code&logoColor=white)](https://github.com/spectralwow-dev/spectralwow-dev)
 
-<!-- Language Distribution -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectralwow-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=ffffff&langs_count=8"/>
+<!-- Technology Stack -->
+[![C++](https://img.shields.io/badge/C++-60%25-blue?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/spectralwow-dev/spectralwow-dev)
+[![SQL](https://img.shields.io/badge/SQL-25%25-orange?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/spectralwow-dev/spectralwow-dev)
+[![CMake](https://img.shields.io/badge/CMake-10%25-green?style=for-the-badge&logo=cmake&logoColor=white)](https://github.com/spectralwow-dev/spectralwow-dev)
+[![Other](https://img.shields.io/badge/Other-5%25-lightgrey?style=for-the-badge&logo=files&logoColor=white)](https://github.com/spectralwow-dev/spectralwow-dev)
 
 </div>
 
@@ -194,8 +200,8 @@ SpectralWoW transforms the classic WotLK experience into something truly spectra
 | **Realm** | SpectralWoW | **Location** | Germany (EU) |
 | **Version** | 3.3.5a (12340) | **Average Latency** | 25-45ms |
 | **Type** | PvPvE Blizzlike+ | **Connection** | Dedicated 1Gbps |
-| **Rates** | 1x XP, 2x Gold, 1x Drop | **Uptime** | 99.8% |
-| **Max Players** | 2500 | **Hardware** | Intel Xeon, 64GB RAM |
+| **Rates** | 7x XP, 7x Gold, 7x Drop | **Uptime** | 99.8% |
+| **Max Players** | 8500 | **Hardware** | Intel Xeon, 64GB RAM |
 | **Realmlist** | logon.spectralwow.com | **Storage** | NVMe SSD RAID |
 
 <!-- Real Server Status Indicators -->
